@@ -1,3 +1,4 @@
+![photo_2026-01-09_02-18-27](https://github.com/user-attachments/assets/897a6081-1413-4128-bd0f-98ab9c27d38e)
 🍒 cherryfork — a next-generation visual enhancement tool
 
 cherryfork is a modern visual enhancement utility designed for users who want to experience Roblox worlds in a cleaner, more expressive, and visually comfortable way. The project focuses on aesthetics, usability, and overall visual clarity without altering game rules or core mechanics. If image quality, scene readability, and a pleasant visual style matter to you, cherryfork is built with that exact goal in mind ✨
