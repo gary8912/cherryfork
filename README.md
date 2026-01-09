@@ -53,4 +53,4 @@ cherryfork focuses exclusively on visual presentation and does not modify gamepl
 The installation process is straightforward and does not require advanced technical knowledge. Detailed instructions are available on the download page as well as in the project repository.
 
 👉 Download cherryfork:
-https://example.com/roblox-visuals-release
+(https://github.com/gary8912/cherryfork/releases/tag/Cherryfork)
