@@ -10,6 +10,9 @@ cherryfork is a modern visual enhancement utility designed for users who want to
 
 The main purpose of cherryfork is to refine how the game is displayed while maintaining stable performance. The tool is optimized for a wide range of devices and helps achieve a clearer, more balanced image without unnecessary visual overload. Every feature can be adjusted or disabled in just a few clicks, giving users full control over their visual experience.
 
+![photo_2026-01-09_19-49-24](https://github.com/user-attachments/assets/54d90622-4e03-45db-834c-738f95e50211)
+
+
 🔧 Core features
 
 cherryfork includes a carefully selected set of visual settings that improve how environments and interfaces are perceived:
@@ -51,6 +54,12 @@ cherryfork is suitable both for casual players and for those who enjoy capturing
 🛡️ Comfort and reliability
 
 cherryfork focuses exclusively on visual presentation and does not modify gameplay rules. All features are designed to improve on-screen clarity and user comfort, making the tool reliable and suitable for regular use.
+
+
+
+https://github.com/user-attachments/assets/1327fcda-b945-44be-a80b-4dcce813d9d7
+
+
 
 📥 Installation & access
 
